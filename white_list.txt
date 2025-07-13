@@ -271,3 +271,5 @@
 
 # [App] 索尼电视系统更新
 @@|bravia-cfgdst-ore-pro.bda.ndmdhs.com^$important
+# [Hybrid] NewTV未来电视
+@@|ottcn.com^$important
