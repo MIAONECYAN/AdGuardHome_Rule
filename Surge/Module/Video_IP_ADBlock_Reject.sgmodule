@@ -14,7 +14,7 @@
 ^https?:\/\/ugctysj\.gtimg\.com\/.*\.mp4.* - reject
 ##软件首页顶部滚动页广告
 #Old
-(^https?:\/\/.*\/defaultts.tc.qq.com\/)(?!.*\?index=[0-9]+&start=[0-9]+&end=[0-9]+).* - reject
+#(^https?:\/\/.*\/defaultts.tc.qq.com\/)(?!.*\?index=[0-9]+&start=[0-9]+&end=[0-9]+).* - reject
 #New
 (^https?:\/\/.*\/omts.tc.qq.com\/)(?!.*\?index=[0-9]+&start=[0-9]+&end=[0-9]+).* - reject
 # 播放界面送礼
