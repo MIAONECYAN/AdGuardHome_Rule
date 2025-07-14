@@ -11,7 +11,7 @@
 ^https?:\/\/ugctysj\.qq\.com\/.*\.mp4.* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
 ##软件首页顶部滚动页广告
 #Old
-(^https?:\/\/.*\/defaultts.tc.qq.com\/)(?!.*\?index=[0-9]+&start=[0-9]+&end=[0-9]+).* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
+#(^https?:\/\/.*\/defaultts.tc.qq.com\/)(?!.*\?index=[0-9]+&start=[0-9]+&end=[0-9]+).* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
 #New
 (^https?:\/\/.*\/omts.tc.qq.com\/)(?!.*\?index=[0-9]+&start=[0-9]+&end=[0-9]+).* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
 
