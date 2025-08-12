@@ -1,0 +1,8 @@
+# NAME: Grok Whitelist
+# UPDATED: 2025-08-13 00:00:00
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,api.x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grok.x.ai
