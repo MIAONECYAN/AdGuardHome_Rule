@@ -256,6 +256,8 @@
 # [Web] Bilibili
 # Bilibili登陆页面
 @@||passport.bilibili.cn^$important
+# 部分图片资源
+@@|i2.hdslb.com^$important
 
 # [Web] 京东(JD)
 # 网页图片等资源
