@@ -275,3 +275,5 @@
 @@|bravia-cfgdst-ore-pro.bda.ndmdhs.com^$important
 # [Hybrid] NewTV未来电视
 @@|ottcn.com^$important
+# [App] 一番辞记
+@@|ichibann.oss-cn-hangzhou.aliyuncs.com^$important
