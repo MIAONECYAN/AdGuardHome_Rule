@@ -9,9 +9,10 @@
 # 腾讯视频
 ##视频暂停广告
 ^https?:\/\/.*\/vmind.qqvideo.tc.qq.com.* - reject
-^https?:\/\/ugchsy\.gtimg\.com\/.*\.mp4.* - reject
-^https?:\/\/ugchsy\.qq\.com\/.*\.mp4.* - reject
-^https?:\/\/ugctysj\.gtimg\.com\/.*\.mp4.* - reject
+^http:\/\/.*\.mp4\?vkey=[A-Za-z0-9]+&platform=[A-Za-z0-9]+&sdtfrom=[A-Za-z0-9]+&fmt=[A-Za-z]+&level=[0-9]+ - reject
+#^https?:\/\/ugchsy\.gtimg\.com\/.*\.mp4.* - reject
+#^https?:\/\/ugchsy\.qq\.com\/.*\.mp4.* - reject
+#^https?:\/\/ugctysj\.gtimg\.com\/.*\.mp4.* - reject
 ##软件首页顶部滚动页广告
 #Old
 #(^https?:\/\/.*\/defaultts.tc.qq.com\/)(?!.*\?index=[0-9]+&start=[0-9]+&end=[0-9]+).* - reject
