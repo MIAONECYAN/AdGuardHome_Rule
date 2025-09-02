@@ -6,9 +6,10 @@
 # 腾讯视频
 ##客户端暂停广告
 ^https?:\/\/.*\/vmind.qqvideo.tc.qq.com data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
-^https?:\/\/ugchsy\.gtimg\.com\/.*\.mp4.* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
-^https?:\/\/ugchsy\.qq\.com\/.*\.mp4.* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
-^https?:\/\/ugctysj\.qq\.com\/.*\.mp4.* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
+^http:\/\/.*\.mp4\?vkey=[A-Za-z0-9]+&platform=[A-Za-z0-9]+&sdtfrom=[A-Za-z0-9]+&fmt=[A-Za-z]+&level=[0-9]+ data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
+#^https?:\/\/ugchsy\.gtimg\.com\/.*\.mp4.* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
+#^https?:\/\/ugchsy\.qq\.com\/.*\.mp4.* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
+#^https?:\/\/ugctysj\.qq\.com\/.*\.mp4.* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
 ##软件首页顶部滚动页广告
 #Old
 #(^https?:\/\/.*\/defaultts.tc.qq.com\/)(?!.*\?index=[0-9]+&start=[0-9]+&end=[0-9]+).* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
