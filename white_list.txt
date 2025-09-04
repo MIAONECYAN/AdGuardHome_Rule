@@ -262,6 +262,9 @@
 # [Web] 京东(JD)
 # 网页图片等资源
 @@||wl.jd.com^$important
+@@||api.m.jd.com^$important
+@@||m.360buyimg.com^$important
+@@||img*.360buyimg.com^$important
 # 账号登陆
 @@||gias.jd.com^$important
 
