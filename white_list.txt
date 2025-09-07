@@ -280,3 +280,6 @@
 @@|ottcn.com^$important
 # [App] 一番辞记
 @@|ichibann.oss-cn-hangzhou.aliyuncs.com^$important
+
+# [Web] 2Checkout
+@@|secure.2checkout.com^$important
