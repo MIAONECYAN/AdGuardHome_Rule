@@ -21,5 +21,5 @@
 
 # [App] Spokenly接口
 # 使用自定义接口的时候屏蔽官方服务器来增加隐私性
-||spokenly.app^$important
-||api.spokenly.app^$important
+#||spokenly.app^$important
+#||api.spokenly.app^$important
