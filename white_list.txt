@@ -283,3 +283,6 @@
 
 # [Web] 2Checkout
 @@|secure.2checkout.com^$important
+
+# [App] 豆瓣
+@@|tnc3-alisc1.zijieapi.com^$important
