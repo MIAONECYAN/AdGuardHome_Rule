@@ -288,4 +288,4 @@
 @@|tnc3-alisc1.zijieapi.com^$important
 
 # [Hybrid] 优酷
-@@|v.youku.com|^$important
+@@|v.youku.com^$important
