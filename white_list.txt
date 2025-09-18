@@ -23,6 +23,7 @@
 # [App] permit Apple Weather
 @@||weather-data.apple.com^$important
 @@||api-weather.andy.works^$important
+@@||weatherkit.apple.com^$important
 
 # [Hybrid] permit Windows10 网络连接状态监测
 @@||dns.msftncsi.com^$important
