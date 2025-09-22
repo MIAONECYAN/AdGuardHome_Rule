@@ -266,6 +266,7 @@
 @@||api.m.jd.com^$important
 @@||m.360buyimg.com^$important
 @@||img*.360buyimg.com^$important
+@@||storage.360buyimg.com^$important
 # 账号登陆
 @@||gias.jd.com^$important
 
