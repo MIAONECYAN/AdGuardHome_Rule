@@ -291,3 +291,6 @@
 
 # [Hybrid] 优酷
 @@|v.youku.com^$important
+
+# [Web] 菜鸟教程
+@@|runoob.com^$important
