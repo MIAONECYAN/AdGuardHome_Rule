@@ -10,8 +10,8 @@ httpsdns.*
 httpsdns-*.*
 *-httpsdns-*.*
 
-# [Hybrid] deny dns
-# dns.*
-# *-dns.*
-# dns-*.*
-# *-dns-*.*
+[Hybrid] deny dns
+dns.*
+*-dns.*
+dns-*.*
+*-dns-*.*
