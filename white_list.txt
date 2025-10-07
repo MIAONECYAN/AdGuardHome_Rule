@@ -16,7 +16,7 @@
 @@||books-analytics-events.apple.com^$important
 @@||gala.convection.cn^$important
 
-# [App] permit 苹果自带地图的高德导航
+# [App] permit 苹果CN自带地图的高德地图导航
 @@||dispatcher.is.autonavi.com^$important
 @@||direction2.is.autonavi.com^$important
 
