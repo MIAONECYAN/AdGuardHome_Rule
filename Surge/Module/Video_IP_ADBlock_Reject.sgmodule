@@ -29,3 +29,8 @@
 
 ##移动客户端广告logo
 ^https?:\/\/vfiles\.gtimg\.cn\/wupload\/ad_.* - reject
+
+##移动客户端个人中心顶部广告
+^http:\/\/ltsxmty.gtimg.com\/.*.ts.m3u8\?ver=[46]* - reject
+^http:\/\/[0-9.]*\/omts.tc.qq.com\/.*.ts.m3u8\?ver=[46]* - reject
+^http:\/\/defaultts.tc.qq.com\/defaultts.tc.qq.com\/.*.ts.m3u8.ver=[46]* - reject
