@@ -24,3 +24,8 @@
 
 ##移动客户端广告logo
 ^https?:\/\/vfiles\.gtimg\.cn\/wupload\/ad_.* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
+
+##移动客户端个人中心顶部广告
+^http:\/\/ltsxmty.gtimg.com\/.*.ts.m3u8\?ver=[46]* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
+^http:\/\/[0-9.]*\/omts.tc.qq.com\/.*.ts.m3u8\?ver=[46]* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
+^http:\/\/defaultts.tc.qq.com\/defaultts.tc.qq.com\/.*.ts.m3u8.ver=[46]* data-type=file data="/Users/miaowan/Downloads/GIF.mp4"
