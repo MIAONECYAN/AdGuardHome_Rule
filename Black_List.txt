@@ -1,10 +1,9 @@
 # [App] deny PCDN
 ||mcdn.bilivideo.cn^$important
 
+
 # [App] 腾讯视频广告
 ||adsmind.gdtimg.com^$important
-# ||vip.image.video.qpic.cn^$important
-# ||vfiles.gtimg.cn^$important
 ||v3.gdt.qq.com^$important
 ||pgdt.gtimg.cn^$important
 ||iacc.qq.com^$important
@@ -12,19 +11,33 @@
 ||rmonitor.qq.com^$important
 ||tmfmazu.m.qq.com^$important
 ||r.release.qq.com^$important
+||xs.gdt.qq.com^$important
+||rdelivery.qq.com^$important
+||snowflake.qq.com^$important
+||vr.gdt.qq.com^$important
+||ugd.gtimg.com^$important
+||disp-qryapi.3g.qq.com^$important
+||monitor.l.qq.com^$important
+||rpt.gdt.qq.com^$important
+||iacc.rec.qq.com^$important
+||config.ab.qq.com^$important
+||df.tanx.com^$important
+||bdlog.tanx.com^$important
 
 
 # [Hybrid] 穿山甲广告
 ||pglstatp-toutiao.com^$important
 /pangolin-sdk-toutiao-.*\.com/$important
 
+
 # [Hybrid] 腾讯优量汇广告接口
-# https://developers.adnet.qq.com/doc/api/guide
 ||pgdt.gtimg.cn^$important
-/[mi|c|t|v]\.gdt.qq\.com/$important
+/[mi|c|t|v]\.gdt\.qq\.com/$important
+
 
 # [App] 腾讯漫画广告
 ||pgdt.gtimg.cn^$important
+
 
 # [App] Spokenly官方API服务器
 # 使用自定义接口的时候屏蔽官方服务器来增加隐私性
