@@ -1,6 +1,7 @@
 # [App] deny PCDN
 ||mcdn.bilivideo.cn^$important
 ||stun.chat.bilibili.com^$important
+||*tracker*.chat.bilibili.com^$important
 
 # [App] 腾讯视频广告
 ||adsmind.gdtimg.com^$important
