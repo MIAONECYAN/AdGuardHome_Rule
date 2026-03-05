@@ -2,7 +2,7 @@
 ||mcdn.bilivideo.cn^$important
 ||stun.chat.bilibili.com^$important
 ||*tracker*.chat.bilibili.com^$important
-
+||tracker.chat.bilibili.com^$important
 # [App] 腾讯视频广告
 ||adsmind.gdtimg.com^$important
 ||v3.gdt.qq.com^$important
