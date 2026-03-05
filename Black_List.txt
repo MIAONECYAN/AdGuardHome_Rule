@@ -14,7 +14,6 @@
 ||r.release.qq.com^$important
 ||xs.gdt.qq.com^$important
 ||rdelivery.qq.com^$important
-||snowflake.qq.com^$important
 ||vr.gdt.qq.com^$important
 ||ugd.gtimg.com^$important
 ||disp-qryapi.3g.qq.com^$important
