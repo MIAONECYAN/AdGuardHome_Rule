@@ -23,7 +23,7 @@
 ||config.ab.qq.com^$important
 ||df.tanx.com^$important
 ||bdlog.tanx.com^$important
-
+||snowflake.qq.com^$important
 
 # [Hybrid] 穿山甲广告
 ||pglstatp-toutiao.com^$important
