@@ -294,3 +294,6 @@
 
 # [Web] 菜鸟教程
 @@|runoob.com^$important
+
+# [App] 通达信
+@@|data.tdx.com.cn^$important
